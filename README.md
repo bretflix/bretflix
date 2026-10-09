@@ -1,5 +1,5 @@
 # Howdy 👋 
-I'm Bret McGowen, a software engineer from Texas 🤠
+I'm Bret McGowen, a former software engineer living in NYC. Cofounder of [Vinyl TV](https://vinyl.tv).
 Currently in New York City. Previously at Google, Rackspace.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.webp"
