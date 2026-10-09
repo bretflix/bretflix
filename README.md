@@ -11,11 +11,11 @@ Currently in New York City. Previously at Google, Rackspace.
 />
 
 # About Bret McGowen 
-- ⌨️ Software Engineer (C#, Node.js, Python, Java, JavaScript, ColdFusion)
+- Currently cofounder of [Vinyl TV](https://vinyl.tv).
+- ⌨️ Former software engineer (C#, Node.js, Python, Java, JavaScript, ColdFusion)
 - ⌛ Previously:
   - [Bret McGowen at Google](https://bretmcg.com/google-cloud-serverless/) - Developer Advocate for Serverless (Cloud Run, Cloud Functions, App Engine, Firebase)
   - [Rackspace](https://docs.rackspace.com/blog/authors/Bret-McGowen/) - Software Developer IV
-  - Startups, enterprises, non-profits and more
 - 🏃‍♂️ Running
 - 🦝 Raccoons
 - 🏐 Volleyball
